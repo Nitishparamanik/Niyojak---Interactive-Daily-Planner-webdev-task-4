@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Daily Planner</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="theme-switcher">
+                <button id="theme-toggle"><i class="fas fa-palette"></i> Change Theme</button>
+            </div>
+            <h1>Daily Planner</h1>
+            <div class="date-container">
+                <p id="current-date"></p>
+            </div>
+        </header>
+
+        <section class="quote-section">
+            <div class="quote-container">
+                <p id="quote-text"></p>
+                <p id="quote-author"></p>
+                <button id="new-quote-btn"><i class="fas fa-sync-alt"></i> New Quote</button>
+            </div>
+        </section>
+
+        <section class="tasks-section">
+            <div class="add-task-container">
+                <input type="text" id="task-input" placeholder="Add a new task...">
+                <button id="add-task-btn"><i class="fas fa-plus"></i></button>
+            </div>
+            
+            <div class="task-filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="active">Active</button>
+                <button class="filter-btn" data-filter="completed">Completed</button>
+            </div>
+            
+            <ul id="task-list"></ul>
+            
+            <div class="task-summary">
+                <p><span id="tasks-remaining">0</span> tasks remaining</p>
+                <button id="clear-completed-btn">Clear Completed</button>
+            </div>
+        </section>
+
+        <section class="pomodoro-section">
+            <h2>Pomodoro Timer</h2>
+            <div class="timer-display">
+                <span id="minutes">25</span>:<span id="seconds">00</span>
+            </div>
+            <div class="timer-controls">
+                <button id="start-timer"><i class="fas fa-play"></i> Start</button>
+                <button id="pause-timer" disabled><i class="fas fa-pause"></i> Pause</button>
+                <button id="reset-timer"><i class="fas fa-redo"></i> Reset</button>
+            </div>
+            <div class="timer-options">
+                <button class="timer-option active" data-time="25">Pomodoro</button>
+                <button class="timer-option" data-time="5">Short Break</button>
+                <button class="timer-option" data-time="15">Long Break</button>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="tasks.js"></script>
+    <script src="pomodoro.js"></script>
+    <script src="quotes.js"></script>
+    <script src="themes.js"></script>
+</body>
+</html>
