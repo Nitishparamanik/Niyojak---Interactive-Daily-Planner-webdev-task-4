@@ -38,7 +38,7 @@ Experience Niyojak in action: [Live Demo](https://yourusername.github.io/niyojak
 <div align="center">
   <img src="https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4/blob/main/screenshots/oceantheme.png" alt="Ocean Theme" width="45%">
   <img src="https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4/blob/main/screenshots/darktheme.png" alt="Dark Theme" width="45%">
-  <p><i>Nature theme (left) and Dark theme (right)</i></p>
+  <p><i>Ocean theme (left) and Dark theme (right)</i></p>
 </div>
 
 ## 🚀 Quick Start
@@ -171,5 +171,5 @@ Project Link: https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Pla
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by passionate developers | Niyojak: Your Day, Optimized</sub>
+  <sub>Built with ❤️ | Niyojak: Your Day, Optimized</sub>
 </div>
