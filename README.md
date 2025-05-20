@@ -5,7 +5,7 @@
 ![Status Badge](https://img.shields.io/badge/status-active-brightgreen)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/daily-planner/main/screenshots/banner.png" alt="Momentum Daily Planner Banner" width="800px" height="auto">
+  <img src="https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4/blob/main/screenshots/Screenshot%202025-05-20%20215418.png" alt="Niyojak Daily Planner Banner" width="800px" height="auto">
 
   **Boost your productivity with Niyojak - a beautiful, theme-changing planner that motivates and tracks your progress.**
 </div>
