@@ -36,21 +36,21 @@ Experience Niyojak in action: [Live Demo](https://yourusername.github.io/niyojak
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/daily-planner/main/screenshots/theme-nature.png" alt="Nature Theme" width="45%">
-  <img src="https://raw.githubusercontent.com/yourusername/daily-planner/main/screenshots/theme-dark.png" alt="Dark Theme" width="45%">
+  <img src="https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4/blob/main/screenshots/oceantheme.png" alt="Ocean Theme" width="45%">
+  <img src="https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4/blob/main/screenshots/darktheme.png" alt="Dark Theme" width="45%">
   <p><i>Nature theme (left) and Dark theme (right)</i></p>
 </div>
 
 ## 🚀 Quick Start
 
 ### Option 1: Direct Use
-Simply visit the [live demo](https://yourusername.github.io/niyojak-planner) to start using Niyojak right away!
+Simply visit the [live demo](https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4) to start using Niyojak right away!
 
 ### Option 2: Local Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/niyojak-planner.git
+git clone https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4.git
 
 # Navigate to the project directory
 cd niyojak-planner
@@ -164,9 +164,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Nitish Paramanik
 
-Project Link: [https://github.com/yourusername/niyojak-planner](https://github.com/yourusername/niyojak-planner)
+Project Link: https://github.com/Nitishparamanik/Niyojak---Interactive-Daily-Planner-webdev-task-4
 
 ---
 
